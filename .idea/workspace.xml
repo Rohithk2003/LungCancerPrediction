@@ -4,22 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c2c44ee-c42c-4b7d-a988-08a4a79d0610" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/baseFile.ipynb" afterDir="false" />
+    <list default="true" id="8c2c44ee-c42c-4b7d-a988-08a4a79d0610" name="Changes" comment="added new dataset">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/decision_tree.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dementia_dataset.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/first.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/first.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/heart.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/knn.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/liver_disease.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logisitic_regression.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lung_cancer_s.csv" beforeDir="false" afterPath="$PROJECT_DIR$/lung_cancer_s.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lungcancer.csv" beforeDir="false" afterPath="$PROJECT_DIR$/lungcancer.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baseFile.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/baseFile.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/naivebayes.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/not_needed.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.csv.xlsx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +62,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.keymap",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -113,8 +101,19 @@
       <workItem from="1705079674417" duration="579000" />
       <workItem from="1705080288410" duration="938000" />
       <workItem from="1705128134652" duration="1879000" />
-      <workItem from="1705131785171" duration="4896000" />
+      <workItem from="1705131785171" duration="5376000" />
+      <workItem from="1705141950339" duration="150000" />
+      <workItem from="1705142223285" duration="417000" />
     </task>
+    <task id="LOCAL-00001" summary="added new dataset">
+      <option name="closed" value="true" />
+      <created>1705137182747</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705137182747</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,6 +122,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="modified code" />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="added new dataset" />
+    <option name="LAST_COMMIT_MESSAGE" value="added new dataset" />
   </component>
 </project>
